@@ -9,6 +9,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "commander": "^13.1.0",
     "hono": "^4.6.20",
     "rehype-highlight": "^7.0.2",
     "rehype-katex": "^7.0.1",
